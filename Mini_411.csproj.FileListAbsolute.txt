@@ -1,0 +1,9 @@
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\bin\Debug\Mini_411.exe.config
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\bin\Debug\Mini_411.exe
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\bin\Debug\Mini_411.pdb
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.csprojResolveAssemblyReference.cache
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.Form1.resources
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.Properties.Resources.resources
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.csproj.GenerateResource.Cache
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.exe
+c:\users\harki\documents\visual studio 2015\Projects\Mini_411\Mini_411\obj\Debug\Mini_411.pdb
